@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<robot>
+  <navn>"Bad 2"</navn>
+  <runder>
+    <runde skjold="1" vaaben="1" />
+    <runde skjold="3" vaaben="1" />
+    <runde skjold="1" vaaben="2" />
+    <runde skjold="3" vaaben="1" />
+    <runde skjold="1" vaaben="2" />
+    <runde skjold="3" vaaben="1" />
+    <runde skjold="1" vaaben="2" />
+    <runde skjold="3" vaaben="1" />
+    <runde skjold="1" vaaben="2" />
+    <runde skjold="3" vaaben="1" />
+  </runder>
+  <tab>0</tab>
+  <sejre>1</sejre>
+  <liv>2</liv>
+  <uafgjort>3</uafgjort>
+</robot>
